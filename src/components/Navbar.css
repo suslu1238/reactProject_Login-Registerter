@@ -1,0 +1,27 @@
+.Navbarr{
+    background-color: blue;
+}
+.Navbarr ul{
+    display:flex;
+}
+.Navbarr ul li{
+    list-style: none;
+    margin:auto;
+    padding: 20px;
+
+}
+.Navbarr ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 35px;
+}
+.Registerr{
+    text-align: center;
+    background-color: aqua;
+    display: inline-block;
+}
+.loginn{
+    text-align: center;
+    background-color: aqua;
+    display: inline-block
+}
